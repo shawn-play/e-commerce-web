@@ -1,0 +1,98 @@
+{
+    "1": {
+        "page": "login.png",
+        "desc": "登录",
+        "children": "2,3,4,7,9",
+        "reverse": false
+    },
+    "2": {
+        "page": "index.png",
+        "desc": "主页",
+        "children": "5",
+        "reverse": false
+    },
+    "3": {
+        "page": "category.png",
+        "desc": "分类",
+        "children": "5",
+        "reverse": false
+    },
+    "4": {
+        "page": "custom.png",
+        "desc": "定制产品",
+        "children": "6",
+        "reverse": false
+    },
+    "5": {
+        "page": "detail.png",
+        "desc": "详情页",
+        "children": false,
+        "reverse": false
+    },
+    "6": {
+        "page": "customc.png",
+        "desc": "定制器",
+        "children": false,
+        "reverse": false
+    },
+    "7": {
+        "page": "shopcar.png",
+        "desc": "购物车",
+        "children": "8",
+        "reverse": false
+    },
+    "8": {
+        "page": "pay-order.png",
+        "desc": "付款",
+        "children": false,
+        "reverse": false
+    },
+    "9": {
+        "page": "icenter.png",
+        "desc": "个人中心",
+        "children": "10,11,12,13,14,15,16",
+        "reverse": false
+    },
+    "10": {
+        "page": "iorder.png",
+        "desc": "订单情况",
+        "children": false,
+        "reverse": false
+    },
+    "11": {
+        "page": "wallet.png",
+        "desc": "商城钱包",
+        "children": false,
+        "reverse": false
+    },
+    "12": {
+        "page": "collect-designer.png",
+        "desc": "收藏",
+        "children": false,
+        "reverse": false
+    },
+    "13": {
+        "page": "helpcenter.png",
+        "desc": "帮助中心",
+        "children": false,
+        "reverse": false
+    },
+    "14": {
+        "page": "personal.png",
+        "desc": "个人信息",
+        "children": false,
+        "reverse": false
+    },
+    "15": {
+        "page": "set.png",
+        "desc": "设置",
+        "children": false,
+        "reverse": false
+    },
+    "16": {
+        "page": "shop-open.png",
+        "desc": "平台开店",
+        "children": false,
+        "reverse": false
+    }
+}
